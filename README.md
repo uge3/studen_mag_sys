@@ -13,25 +13,25 @@
           查看作业成绩
           查看班级中的总成绩排名
 
-
-stude_mag_sys/#程序目录
-|- - -__init__.py
-|- - -bin/#启动目录
-|      |- - -__init__.py
-|      |- - -admin_start.py#管理员视图启动
-|      |- - -mag_init.py#系统初始化
-|      |- - -student.py#学员视图启动
-|      |- - -teach_start.py#讲师视图启动
-|
-|- - -cfg/#配置目录
-|      |- - -__init__.py
-|      |- - -config.py#配置文件
-|
-|- - -core/#主逻辑目录
-|      |- - -__init__.py
-|      |- - -admain_class.py#主要逻辑 类
-|      |- - -admin_log.py#管理员逻辑 类
-|      |- - -student_class.py#学员逻辑 类
-|      |- - -teach_class.py#讲师逻辑 类
-|
-|- - -REDMAE
+- 
+  stude_mag_sys/#程序目录
+- |- - -__init__.py
+- |- - -bin/#启动目录
+- |      |- - -__init__.py
+- |      |- - -admin_start.py#管理员视图启动
+- |      |- - -mag_init.py#系统初始化
+- |      |- - -student.py#学员视图启动
+- |      |- - -teach_start.py#讲师视图启动
+- |
+- |- - -cfg/#配置目录
+- |      |- - -__init__.py
+- |      |- - -config.py#配置文件
+- |
+- |- - -core/#主逻辑目录
+- |      |- - -__init__.py
+- |      |- - -admain_class.py#主要逻辑 类
+- |      |- - -admin_log.py#管理员逻辑 类
+- |      |- - -student_class.py#学员逻辑 类
+- |      |- - -teach_class.py#讲师逻辑 类
+- |
+- |- - -REDMAE
