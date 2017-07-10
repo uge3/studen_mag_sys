@@ -1,0 +1,1 @@
+# studen_mag_sys
